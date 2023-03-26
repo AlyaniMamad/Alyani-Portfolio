@@ -1,0 +1,94 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/My_portfolio.png",
+            "title": "Alyani's-Portfolio",
+            "bodyText": "- My Portfolio Web-App made in **React**\n -  Fully customisable and dynamic, easily change data and images.\n - **Dark Mode Support**\n - Here you can see about me :- \tLike About me,My resume,My projects,My skills,My Education and So on.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/Alyani-Portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "-"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/crypto.png",
+            "title": "Multi-Crypto-Details",
+            "bodyText": "- **100+** Crypto coins are listed here.\n - some other functions are available like different **coins prices listed** .\n- Particular coins in-depth details are available like the progress of coins shown in **chart form** and some days wise data is listed using \n- Third-party Api's **Coingecko.com**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/Multi-Crypto-Details"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://multi-crypto-coins-by-alyani-mamad.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React js", "Axios", "React-Routing", "Chakra UI & Charts.js"
+            ]
+        },
+        {
+            "image" : "images/projects/quizw.png",
+            "title": "RealTime-Quiz-React-WebApp",
+            "bodyText": "- In this web app, some functions are available like **category-wise quizzes**, and difficulty-wise quizzes Like : **Easy/Med/Hard**\n- total **10 MCQs** are given particular categories. in this MCQs come from **OpenDB Api's**.\n- Online Quiz Website Available on **Netlify**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/RealTime-Quiz-React-WebApp/tree/master"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://quiz-webapp-developed-by-alyani-mamad.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React js", "Axios", "React-Routing", "Material UI"
+            ]
+        },
+        {
+            "image" : "images/projects/Beast-Gym.png",
+            "title": "Beast-Gym",
+            "bodyText": "- **A BEAST GYM** website is advertising of a Beast Gym.\n- It is an **responsive website**\n- **Its Features Like** : User can Login/Register, Gym Features, Expert Trainers, Pricing, Opening-Closing Hours and so on.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/Beast-Gym"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/Spend-Tracker.png",
+            "title": "Spend-Tracker(Team Project)",
+            "bodyText": "- A Spend-Tracker Web-App made in React-Native.\n- It provides us funtionality to track our daily expences.\n- It has Login/Register for user.\n- You can not down your day to day trasactions date-wise\n- We are still working on it for some better features Like : Monthly Charts, Wallet like paytm,Improving Ui etc... ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/Spend-Tracker"
+                }
+            ],
+            "tags" : [
+                "React-Native",
+                "Expo",
+                "React-Redux",
+                "Tailwindcss"
+            ]
+        }
+    ]
+}

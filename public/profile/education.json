@@ -1,0 +1,40 @@
+{
+    "education":[
+        {
+            "title": "Sept 2022 - Present",
+            "cardTitle": "Master of Computer Application(MCA), Computer Science",
+            "cardSubtitle":"DHARMSINH DESAI UNIVERSITY - Nadiad",
+            "icon" : {
+                "src": "images/education/edu.png"
+                }
+            
+        },
+        {
+            "title": "June 2019 - May 2022",
+            "cardTitle": "Bachelor of Computer Application(BCA), Computer Science",
+            "cardSubtitle":"Maharaja Krishnakumarsinhji Bhavnagar University(MKBU) - Bhavnagar",
+            "cardDetailedText":"CGPA - 6.9",
+            "icon" : {
+                "src": "images/education/edu.png"
+                }
+        },
+        {
+            "title": "Jun 2017 - Apr 2019",
+            "cardTitle": "11th & 12th - Science",
+            "cardSubtitle":"The School Of Science",
+            "cardDetailedText":"Percentage - 54.15%    ",
+            "icon" : {
+            "src": "images/education/edu.png"
+            }
+        },
+        {
+            "title": "Jun 2016 - Apr 2017",
+            "cardTitle": "10th - Boards",
+            "cardSubtitle":"Om International Vidhya Sankul",
+            "cardDetailedText":"Percentage - 68.37%",
+            "icon" : {
+            "src": "images/education/edu.png"
+            }
+        }
+    ]
+}
