@@ -44,7 +44,7 @@ function About(props) {
   }, []);
 
   return (
-    <>
+    <div style={{ width: '100vw' }}>
       <Header title={header} />
       <div className="section-content-container">
         <Container>
@@ -64,7 +64,7 @@ function About(props) {
             : <FallbackSpinner />}
         </Container>
       </div>
-    </>
+    </div>
   );
 }
 
