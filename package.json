@@ -38,7 +38,7 @@
     ]
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "npm run build && serve --location=global -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
