@@ -7,6 +7,8 @@ export const lightTheme = {
     cardForeColor: 'black',
     titleColor: '#000',
   },
+  //     "react-chrono": "^1.12.1",
+
   timelineLineColor: '#ccc',
   cardBackground: '#fff',
   cardFooterBackground: '#f7f7f7',
