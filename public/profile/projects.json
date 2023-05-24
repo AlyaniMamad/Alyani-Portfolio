@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/My_portfolio.png",
             "title": "Alyani's-Portfolio",
-            "bodyText": "- My Portfolio Web-App made in **React**\n -  Fully customisable and dynamic, easily change data and images.\n - **Dark Mode Support**\n - Here you can see about me :- \tLike About me,My resume,My projects,My skills,My Education and So on.",
+            "bodyText": "- Showcased projects, achievements, education, about me, and skills in the portfolio to effectively communicate my strengths and accomplishments.\n- Enhanced the portfolio website with **modern features**, including **support for dark mode**, to stay up-to-date with industry trends.\n- Utilized **React.js, React-Hooks**, React-Routing, and Bootstrap to create a responsive website.",
             "links": [
                 {
                     "text": "GitHub",
@@ -24,7 +24,7 @@
         {
             "image" : "images/projects/crypto.png",
             "title": "Multi-Crypto-Details",
-            "bodyText": "- **100+** Crypto coins are listed here.\n - some other functions are available like different **coins prices listed** .\n- Particular coins in-depth details are available like the progress of coins shown in **chart form** and some days wise data is listed using \n- Third-party Api's **Coingecko.com**.",
+            "bodyText": "- Integrated **Coingecko.com APIs** to list over **100** cryptocurrencies and provide in-depth details, including **charts and stats**.\n- Implemented some days-wise data to show the progress of coins in **chart form**.\n- Overcoming challenges such as **API integration and responsive design** to create a user-friendly website.",
             "links": [
                 {
                     "text": "GitHub",
@@ -42,7 +42,7 @@
         {
             "image" : "images/projects/quizw.png",
             "title": "RealTime-Quiz-React-WebApp",
-            "bodyText": "- In this web app, some functions are available like **category-wise quizzes**, and difficulty-wise quizzes Like : **Easy/Med/Hard**\n- total **10 MCQs** are given particular categories. in this MCQs come from **OpenDB Api's**.\n- Online Quiz Website Available on **Netlify**.",
+            "bodyText": "- Created **category-wise quizzes**, including topics such as sports, music, history, and politics, and **difficulty-wise quizzes** such as **Easy/Medium/Hard**.\n- Integrated **OpenDB API** to source **10 multiple-choice questions** for each quiz category.\n- Demonstrated knowledge of deployment and hosting technologies by deploying the application using **Netlify**.",
             "links": [
                 {
                     "text": "GitHub",
@@ -60,7 +60,7 @@
         {
             "image" : "images/projects/Beast-Gym.png",
             "title": "Beast-Gym",
-            "bodyText": "- **A BEAST GYM** website is advertising of a Beast Gym.\n- It is an **responsive website**\n- **Its Features Like** : User can Login/Register, Gym Features, Expert Trainers, Pricing, Opening-Closing Hours and so on.",
+            "bodyText": "- Developed and designed the website for Beast Gym Website using front-end technologies such as **HTML, CSS, and JavaScript**.\n- Designed and developed a **responsive** website to advertise BEAST GYM, featuring key sections such as **user login/registration, gym features, expert trainers, pricing** Etc.\n- Optimized the website’s performance and user experience by implementing **responsive design, minimizing page load times, and improving navigation.**",
             "links": [
                 {
                     "text": "GitHub",
@@ -74,7 +74,48 @@
             "tags" : [
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "JavaScript",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/weather.png",
+            "title": "Weather-WebApp",
+            "bodyText": "- **Live Weather Updates**: Provided users with up-to-date weather data, including **temperature, humidity, wind speed, and forecast** for their **desired locations**.\n- **Interactive UI**: Designed an intuitive and visually appealing user interface with interactive elements, allowing users to easily navigate and access weather information.\n- **Location Search**: Implemented a search feature that enables users to find weather information for any **city or region worldwide**, providing localized weather details.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/Weather-WebApp"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://weather-webapp-by-alyani.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React js",
+                "React Hooks",
+                "OpenWeatherMap API"
+            ]
+        },
+        {
+            "image" : "images/projects/Restaurant.png",
+            "title": "Restaurant",
+            "bodyText": "- Developed an engaging and visually appealing restaurant website to enhance the online presence and customer experience for a local establishment. Key features include:\n- **Responsive Design**: Created a **mobile-friendly** website that adapts seamlessly across different devices, providing a consistent and intuitive user experience.\n- **Menu Showcase**: Designed an interactive menu section to showcase the restaurant's offerings, including All Available dishes, beverages, and special promotions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AlyaniMamad/Restaurant-Web-App/tree/main"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://restaurant-alyani.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React js",
+                "React Hooks",
+                "CSS"
             ]
         },
         {
@@ -86,6 +127,7 @@
                     "text": "GitHub",
                     "href": "https://github.com/AlyaniMamad/Spend-Tracker"
                 }
+                
             ],
             "tags" : [
                 "React-Native",
@@ -94,5 +136,6 @@
                 "Tailwindcss"
             ]
         }
+       
     ]
 }
